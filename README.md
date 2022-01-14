@@ -8,7 +8,7 @@ https://trent-734.herokuapp.com/
 <strong>ReStrong:</strong> A restaurant management app, for creating a digital menu and overseeing a food ordering process :plate_with_cutlery:	
 http://www.restrong.org/owner <br>
 http://www.restrong.org/menu
-
+Check out the presentation of the app on youtube. It starts from 38:23 https://www.youtube.com/watch?v=6Lj0_L9QoDo&t=2557s
 
 - 🔭 I’m currently looking for a job as an Engineering Manager/Senior Techinical Product Owner
 - 🌱 I’m currently improving my skills of Java Script, HTML, CSS, Ruby on Rails and React
