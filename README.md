@@ -7,7 +7,7 @@ https://trent-734.herokuapp.com/
 
 <strong>ReStrong:</strong> A restaurant management app, for creating a digital menu and overseeing a food ordering process :plate_with_cutlery:	
 http://www.restrong.org/owner <br>
-http://www.restrong.org/menu
+http://www.restrong.org/menu <br>
 Check out the presentation of the app on youtube. It starsts from <strong>38:23</strong> <a href="https://www.youtube.com/watch?v=6Lj0_L9QoDo&t=2557s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 
 - 🔭 I’m currently looking for a job as an Engineering Manager/Senior Techinical Product Owner
