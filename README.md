@@ -10,7 +10,6 @@ http://www.restrong.org/owner <br>
 http://www.restrong.org/menu <br>
 Check out the presentation of the app on youtube. It starsts from <strong>38:23</strong> <a href="https://www.youtube.com/watch?v=6Lj0_L9QoDo&t=2557s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 
-- 🔭 I’m currently looking for a job as an Engineering Manager/Senior Techinical Product Owner
 - 🌱 I’m currently improving my skills of Java Script, HTML, CSS, Ruby on Rails and React
 
 <h3 align="left">Connect with me:</h3>
